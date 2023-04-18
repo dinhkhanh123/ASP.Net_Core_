@@ -1,0 +1,7 @@
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\ASP.NET\ASPCore_HelloWorld\ASPCore_HelloWorld\bin\Debug\net5.0\publish\ASPCore_HelloWorld.exe
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\ASP.NET\ASPCore_HelloWorld\ASPCore_HelloWorld\bin\Debug\net5.0\publish\appsettings.Development.json
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\ASP.NET\ASPCore_HelloWorld\ASPCore_HelloWorld\bin\Debug\net5.0\publish\appsettings.json
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\ASP.NET\ASPCore_HelloWorld\ASPCore_HelloWorld\bin\Debug\net5.0\publish\ASPCore_HelloWorld.dll
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\ASP.NET\ASPCore_HelloWorld\ASPCore_HelloWorld\bin\Debug\net5.0\publish\ASPCore_HelloWorld.deps.json
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\ASP.NET\ASPCore_HelloWorld\ASPCore_HelloWorld\bin\Debug\net5.0\publish\ASPCore_HelloWorld.runtimeconfig.json
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\ASP.NET\ASPCore_HelloWorld\ASPCore_HelloWorld\bin\Debug\net5.0\publish\ASPCore_HelloWorld.pdb

@@ -1,0 +1,11 @@
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+$mausac : rgb(156,99,99);
+
+.myclass{
+    color: $mausac;
+    background: #000;
+}
+.mainbackground{
+    background: #ff0000;
+}

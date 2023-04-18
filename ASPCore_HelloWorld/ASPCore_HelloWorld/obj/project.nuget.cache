@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vorgxkPIHfYnBVnws3m34fySx82hxEWY3FC4LNSroc29ndcQUPr8le343SKcbAVus+IgoXIxom31h/NGO3k1Ig==",
+  "success": true,
+  "projectFilePath": "D:\\VKU\\HK2-N3\\LẬP TRÌNH WEB NC\\Project\\ASP.NET\\ASPCore_HelloWorld\\ASPCore_HelloWorld\\ASPCore_HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
+  ],
+  "logs": []
+}

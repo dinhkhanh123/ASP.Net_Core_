@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPCore_HelloWorld.props" />
+</Project>
